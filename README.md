@@ -1,4 +1,3 @@
-# Candy-Distribution
 # 🍬 US Candy Distribution SQL Project
 
 This project is a SQL-based data analysis case study on a fictional **US candy distribution** business. It simulates real-world reporting and insight extraction using relational data across multiple tables in PostgreSQL.
@@ -6,6 +5,8 @@ This project is a SQL-based data analysis case study on a fictional **US candy d
 ---
 
 ## 📚 Dataset Overview
+
+This dataset was obtained from the [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2&pageSize=5), a great resource for realistic, business-focused data projects.
 
 The dataset consists of the following 5 tables:
 
@@ -61,5 +62,4 @@ This project showcases how SQL can be used to derive **actionable business insig
 ---
 
 ## 📁 Folder Structure (optional)
-
 
